@@ -76,6 +76,10 @@ body {
     text-transform: capitalize;
 }
 
+.img-previsao {
+    display: none;
+}
+
 .umidade {
     color: white;
     margin-top: 20px;
